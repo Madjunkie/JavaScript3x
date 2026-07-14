@@ -1,0 +1,16 @@
+Task:  
+Explain < TASK > in a structured .md file inside the IQ_Notes folder. Follow the same visual style as Identifiers_Defination_Rules_IQ.md.
+
+Requirements:
+
+Breakdown Table — Present the concept in a comparison table with clear columns.
+
+Example Walkthrough — Use a simple code/file example to demonstrate each layer.
+
+Best Practices — Summarize recommended usage patterns.
+
+Framework Usage — Explain where this concept is applied in framework creation.
+
+Pipeline Diagram — Include a diagram showing how the concept flows in a pipeline.
+
+TL;DR Section — End with a concise summary of the concept.
